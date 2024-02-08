@@ -1,16 +1,8 @@
-# foodsapi
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/kaliraotaran/foodsapi/assets/81376236/9cdd7363-f9e7-477c-b2df-233166e8c5cb)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/kaliraotaran/foodsapi/assets/81376236/205c43fb-dabb-4011-93f7-17cc1ac80e66)
